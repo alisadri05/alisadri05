@@ -6,8 +6,7 @@
 
   <!-- Header -->
   <h1>Hi 👋, I'm Ali Sadri</h1>
-  <h3>🚀 Hardware & Network</h3>
-
+  <h3>🚀 Hardware & Networking Enthusiast</h3>
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1000&color=A9A9A9&center=true&vCenter=true&width=500&lines=Computer+Engineering;IT+Expert+%26+Assembly+Specialist;WordPress+Developer;Cloud+Infrastructure" alt="Typing" />
 
