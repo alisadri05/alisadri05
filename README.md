@@ -1,12 +1,52 @@
-# 💫 درباره من:
-👤 علی صدری | Ali Sadri
-<br>
-🎓 مهندسی کامپیوتر – آزاد کرج
-<br>
-💻 کارشناس IT و اسمبل
-<br>
-🌐 پشتیبان وب | توسعه وردپرس
+<div align="center">
+  <!-- Language Switch -->
+  <div align="right" style="margin-bottom:10px;">
+    <a href="./README-Fa.md" style="display:inline-block; padding:4px 10px; background-color:#101010; color:white; border-radius:6px; text-decoration:none; font-weight:bold;">فارسی 🇮🇷</a>
+  </div>
 
+  <!-- Header -->
+  <h1>Hi 👋, I'm Ali Sadri</h1>
+  <h3>🚀 Hardware & Network</h3>
 
-# مهارت‌ها:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=flat&logo=vultr) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1000&color=A9A9A9&center=true&vCenter=true&width=500&lines=Computer+Engineering;IT+Expert+%26+Assembly+Specialist;WordPress+Developer;Cloud+Infrastructure" alt="Typing" />
+
+  <br>
+  <!-- Social -->
+  <p align="center">
+    <a href="https://alisadri05.ir"><img src="https://img.icons8.com/fluency/48/domain.png" height="36" title="Website"/></a>
+    <a href="https://linkedin.com/in/alisadri05"><img src="https://img.icons8.com/fluency/48/linkedin.png" height="36" title="LinkedIn"/></a>
+    <a href="https://t.me/AliITweb"><img src="https://img.icons8.com/fluency/48/telegram-app.png" height="36" title="Telegram"/></a>
+    <a href="https://x.com/alisadri05"><img src="https://img.icons8.com/fluency/48/twitterx.png" height="36" title="X"/></a>
+    <a href="https://instagram.com/alisadri05.ir"><img src="https://img.icons8.com/fluency/48/instagram-new.png" height="36" title="Instagram"/></a>
+    <a href="mailto:alisadri05.ir@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" height="36" title="Gmail"/></a>
+  </p>
+</div>
+
+<!-- Tech Stack & Tools -->
+<h3 align="center">⚡ Languages & Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,mysql&theme=dark" height="36" title="Languages"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=ubuntu,windows,vscode&theme=dark" height="36" title="OS & Tools"/>
+</div>
+
+<h3 align="center">☁️ Cloud & Infrastructure</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,workers&theme=dark" height="36" title="Cloud & Infrastructure"/>
+</div>
+
+<h3 align="center">🖥️ Hardware & Networking</h3>
+<div align="center">
+  <!-- CPU -->
+  <a href="https://www.intel.com/"><img src="https://cdn.simpleicons.org/intel/0071C5" height="36" title="Intel"/></a>
+  <a href="https://www.amd.com/"><img src="https://cdn.simpleicons.org/amd/ED1C24" height="36" title="AMD"/></a>
+  <!-- GPU -->
+  <a href="https://www.nvidia.com/"><img src="https://cdn.simpleicons.org/nvidia/76B900" height="36" title="NVIDIA"/></a>
+  <!-- Networking -->
+  <a href="https://www.cisco.com/"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="36" title="Cisco"/></a>
+  <!-- Servers / Enterprise -->
+  <a href="https://www.hp.com/"><img src="https://cdn.simpleicons.org/hp/0096D6" height="36" title="HP"/></a>
+  <a href="https://www.dell.com/"><img src="https://cdn.simpleicons.org/dell/007DB8" height="36" title="Dell"/></a>
+  <a href="https://www.asus.com/"><img src="https://cdn.simpleicons.org/asus/000000" height="36" title="ASUS"/></a>
+</div>
