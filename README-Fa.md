@@ -95,7 +95,3 @@
   <a href="https://instagram.com/alisadri05.ir"><img src="https://img.icons8.com/fluency/48/instagram-new.png" height="32" alt="Instagram"/></a>&nbsp;&nbsp;
   <a href="mailto:mail@alisadri05.ir"><img src="https://img.icons8.com/fluency/48/gmail-new.png" height="32" alt="Email"/></a>
 </p>
-
-<div align="center">
-  <sub>دانش می‌سازیم، فناوری را کشف می‌کنیم و راه‌حل خلق می‌کنیم. 🚀</sub>
-</div>
