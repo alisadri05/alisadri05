@@ -70,6 +70,4 @@ I enjoy exploring computer systems, understanding how hardware works, troublesho
   <a href="https://x.com/alisadri05"><img src="https://img.icons8.com/fluency/48/twitterx.png" height="32" alt="X"/></a>&nbsp;&nbsp;
   <a href="https://instagram.com/alisadri05.ir"><img src="https://img.icons8.com/fluency/48/instagram-new.png" height="32" alt="Instagram"/></a>&nbsp;&nbsp;
   <a href="mailto:mail@alisadri05.ir"><img src="https://img.icons8.com/fluency/48/gmail-new.png" height="32" alt="Email"/></a>
-</p><div align="center">
-  <sub>Building knowledge, exploring technology, and creating solutions. 🚀</sub>
-</div>
+</p>
